@@ -1,5 +1,5 @@
 # Diagrama UML
-![UML-Pizza](img/UMLPizza.svg "UML Pizza")
+![UML-Pizza](img/UMLPizza.jpg "UML Pizza")
 
 # Universidad de la Sabana
 ## Diseño y Arquitectura de Software
